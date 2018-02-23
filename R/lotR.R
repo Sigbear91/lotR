@@ -1,7 +1,7 @@
 #' Lord of the Rings soundboard
 #'
 #' Plays a quote from LotR upon execution
-#' @param Clip Choose soundclip.  Defaults to "over". Possible values: "clever", "mellon", "no", "over", "shallnotpass", "shut", "task", "walls", "wizard", "work"
+#' @param clip Choose soundclip.  Defaults to "over". Possible values: "clever", "mellon", "no", "over", "shallnotpass", "shut", "task", "walls", "wizard", "work"
 #' @keywords Lotr
 #' @export
 #' @examples

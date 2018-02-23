@@ -7,7 +7,7 @@
 lotr(clip = "over")
 }
 \arguments{
-\item{Clip}{Choose soundclip.  Defaults to "over". Possible values: "clever", "mellon", "no", "over", "shallnotpass", "shut", "task", "walls", "wizard", "work"}
+\item{clip}{Choose soundclip.  Defaults to "over". Possible values: "clever", "mellon", "no", "over", "shallnotpass", "shut", "task", "walls", "wizard", "work"}
 }
 \description{
 Plays a quote from LotR upon execution
